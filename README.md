@@ -2,4 +2,4 @@
 ## Experimentation on a small board game
 
 
-Implementation of two tree search algorithms (min-max / alpha-beta) in order to build an IA player.
+Implementation of minmax and alpha-beta (with the negamax variant) in order to build an IA player.
